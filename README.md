@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash S</h1>
 <h3 align="center">A passionate web3 enthusiast from India...</h3>
-<img align="right" alt="Coding" width="400 src="https://github.com/mad-skull">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRustamxon7%2Frustamxon7&psig=AOvVaw1KNjpYoSVTGdH_6CGzgl-n&ust=1668187603888000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCjgayRpPsCFQAAAAAdAAAAABAS">
 
 - 🔭 I’m currently working on **writing content on web3**
 
